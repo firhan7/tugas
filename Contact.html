@@ -9,10 +9,10 @@
 
 <body>
     <nav>
-        <a href="index.html">Home</a> |
+        <a href="index.php">Home</a> |
         <a href="cv-dian.pdf">Download CV</a> |
-        <a href="contact.html">Contact</a> |
-        <a href="about.html">About me</a>
+        <a href="contact.php">Contact</a> |
+        <a href="about.php">About me</a>
     </nav>
 
     <hr />
